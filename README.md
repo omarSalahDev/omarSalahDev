@@ -1,12 +1,12 @@
 # Hi, I'm Omar Saleh 👋
 
-I'm a 3rd-year Computer Science student with a strong foundation in core CS principles, mathematics, and software development, currently focusing on Data Analysis, Data Science, and Machine Learning.
+I'm a 3rd-year Computer Science student at Egyptian E-Learning University (EELU), based in Fayoum, Egypt. I have a strong foundation in core CS principles, mathematics, and software development, currently focusing on Data Analysis, Data Science, and Machine Learning.
 
 ---
 
 ### 🎓 About Me
 
-- 🏫 **Education:** 3rd Year Computer Science Student
+- 🏫 **Education:** 3rd Year Computer Science Student at Egyptian E-Learning University (EELU) - Fayoum, Egypt
 - 🎯 **Current Focus:** Building a solid foundation in Data Analysis and expanding into end-to-end Data Science and Machine Learning.
 - ⚙️ **Workflow & Mindset:** I use AI tools as force multipliers to speed up learning and prototyping, while maintaining a strict focus on understanding the underlying logic, math, and code quality.
 - 📣 **Peer Learning:** Created a video explanation and review series for university **Mathematics 2**, reaching over **2,500 views** on a single session.
@@ -30,15 +30,22 @@ I'm a 3rd-year Computer Science student with a strong foundation in core CS prin
 
 ---
 
+### 🏆 Problem Solving & Competitive Programming
+
+- 🧩 **[LeetCode Profile](https://leetcode.com/omarSalahDev)**
+- ⚡ **[Codeforces Profile](https://codeforces.com/profile/omar99390315)**
+
+---
+
 ### 🚀 Featured Projects & Training
 
-- 📊 **[Student Performance Prediction](https://github.com/YOUR_USERNAME/student-performance-prediction)** *(University Project — Team Leader)*
+- 📊 **[Student Performance Prediction](https://github.com/omarSalahDev/student-performance-prediction)** *(University Project — Team Leader)*
   Led a team to analyze academic metrics and build predictive models for student success.
 
-- 🧠 **[Autism DS & ML Pipeline](https://github.com/YOUR_USERNAME/autism-ds-ml-pipeline)** *(NTI Intensive Training — 120 Hours)*
+- 🧠 **[Autism DS & ML Pipeline](https://github.com/omarSalahDev/ASD-Classification-NTI)** *(NTI Intensive Training — 120 Hours)*
   Hands-on data processing, exploratory data analysis, and model implementation during intensive technical training.
 
-- 🏋️ **[Point Gym Web Application](https://github.com/YOUR_USERNAME/point-gym-webapp)** *(Team Project)*
+- 🏋️ **[Point Gym Web Application](https://github.com/omarSalahDev/point-gym-webapp)** *(Team Project)*
   Collaborated on a web-based interactive project focusing on frontend logic, CSS Grid/Flexbox layouts, and client-side validations.
 
 ---
@@ -54,3 +61,4 @@ I'm a 3rd-year Computer Science student with a strong foundation in core CS prin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarsaleh-cs)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2401601@student.eelu.edu.eg)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarSalahDev)
